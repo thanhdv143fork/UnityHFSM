@@ -8,6 +8,11 @@
   "keywords": ["fsm", "hierarchical", "state-machine"],
   "documentationUrl": "https://github.com/Inspiaaa/UnityHFSM",
 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanhdv143fork/UnityHFSM.git"
+  },
+
   "author": {
     "name": "Inspiaaa",
     "url": "https://github.com/Inspiaaa"
