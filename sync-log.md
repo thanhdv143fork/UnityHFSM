@@ -31,3 +31,4 @@ Automatically updated by the [Sync Upstream](.github/workflows/sync-upstream.yml
 | 2026-11-18 10:05:45 | Inspiaaa/UnityHFSM | f8fdc2e | Already up to date |
 | 2026-11-19 10:16:16 | Inspiaaa/UnityHFSM | f8fdc2e | Already up to date |
 | 2026-11-20 09:58:35 | Inspiaaa/UnityHFSM | f8fdc2e | Already up to date |
+| 2026-11-21 09:44:41 | Inspiaaa/UnityHFSM | f8fdc2e | Already up to date |
